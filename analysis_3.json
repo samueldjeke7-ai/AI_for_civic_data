@@ -1,0 +1,158 @@
+{
+  "themes": [
+    {
+      "name": "Education and Skills Transformation",
+      "reasoning": "The text outlines a 'skills revolution' and a fundamental overhaul of the skills development system, emphasizing TVET colleges, artisan development, and higher education expansion."
+    },
+    {
+      "name": "Public Health and Nutrition",
+      "reasoning": "There is a major focus on ending child stunting by 2030, tackling malnutrition, rolling out new HIV prevention technologies (Lenacapavir), and investing in health infrastructure."
+    },
+    {
+      "name": "Digital Transformation of Governance",
+      "reasoning": "The government is prioritizing the launch of a Digital ID and the digitization of various public services (licenses, certificates) to improve efficiency and access via the MyMzansi platform."
+    },
+    {
+      "name": "Governance and SOE Reform",
+      "reasoning": "The text details efforts to professionalize the public service, implement lifestyle audits, and move toward a centralized model for managing State-Owned Enterprises (SOEs) like Eskom and Transnet."
+    },
+    {
+      "name": "Security and Migration Control",
+      "reasoning": "Commitments include strengthening border security through technology and personnel, re-developing border posts, and increasing labor inspections to enforce immigration laws."
+    },
+    {
+      "name": "Social Justice and Redress",
+      "reasoning": "Themes of redressing past injustices are evident in the District Six restitution project and the ongoing response to Gender-Based Violence and Femicide (GBVF)."
+    },
+    {
+      "name": "International Relations and Pan-Africanism",
+      "reasoning": "The text emphasizes South Africa's role in the AU, SADC, and G20, advocating for the Global South, continental peace, and sovereignty."
+    },
+    {
+      "name": "National Dialogue and Unity",
+      "reasoning": "The rollout of a country-wide National Dialogue and a subsequent National Convention highlights a strategy for building national consensus and a common vision."
+    }
+  ],
+  "commitments": [
+    {
+      "description": "Fundamental overhaul of the skills development system to implement a dual training model.",
+      "reasoning": "Explicitly stated as an undertaking to integrate education with practical workplace experience.",
+      "raw_info": "We are undertaking a fundamental overhaul of the skills development system to implement a dual training model that integrates education with practical workplace experience."
+    },
+    {
+      "description": "Reform and reduce the number of Sector Education and Training Authorities (SETAs).",
+      "reasoning": "Direct commitment to improve governance and alignment with the economy.",
+      "raw_info": "We will reform and reduce the number of Sector Education and Training Authorities to improve governance, strengthen industry participation..."
+    },
+    {
+      "description": "Restore the skills development levy returned to employers to 40%.",
+      "reasoning": "A specific fiscal policy commitment for employers.",
+      "raw_info": "we will increase the proportion of the skills development levy returned to employers, restoring it to its original level of 40%."
+    },
+    {
+      "description": "Build more universities and TVET colleges.",
+      "reasoning": "The President issued a directive to ministers to work on this proposal.",
+      "raw_info": "I have directed the Ministers of Finance and Higher Education to work on a proposal to build more universities and TVET colleges..."
+    },
+    {
+      "description": "Address the shortage of student accommodation.",
+      "reasoning": "Direct instruction to the Minister of Higher Education to work with financial institutions.",
+      "raw_info": "I have directed the Minister of Higher Education to address this challenge, working with financial institutions..."
+    },
+    {
+      "description": "End child stunting by 2030.",
+      "reasoning": "A time-bound goal aligned with the National Strategy to Accelerate Action for Children.",
+      "raw_info": "This year, we will embark on a mission to end child stunting by 2030 and tackle malnutrition among young children..."
+    },
+    {
+      "description": "Allocate clear funding for child nutrition in the Medium-Term Budget Policy Statement.",
+      "reasoning": "Explicit commitment to budgetary transparency for this priority.",
+      "raw_info": "The Medium-Term Budget Policy Statement will set out a clear allocation for the actions we need to take [regarding stunting]."
+    },
+    {
+      "description": "Propose and consult on measures to curb excessive alcohol use (e.g., minimum pricing).",
+      "reasoning": "Commitment to regulatory intervention in public health.",
+      "raw_info": "we have proposed measures to curb excessive alcohol use, including minimum unit pricing or higher excise duties..."
+    },
+    {
+      "description": "Continue and redesign the Social Relief of Distress (SRD) Grant.",
+      "reasoning": "Commitment to maintain the safety net while improving its link to work opportunities.",
+      "raw_info": "this grant will be continued. This year, we will redesign the grant to more effectively support livelihoods..."
+    },
+    {
+      "description": "Expand affordable housing and revitalise commuter rail.",
+      "reasoning": "Ongoing commitment to reducing the cost of living for working families.",
+      "raw_info": "We are re-making our cities... by expanding affordable housing and revitalising commuter rail."
+    },
+    {
+      "description": "Proceed with Phase 4 of District Six construction with R500 million allocation.",
+      "reasoning": "Specific infrastructure and restitution commitment with allocated budget.",
+      "raw_info": "With R500 million allocated to this work, we are proceeding with Phase 4 of construction [District Six]."
+    },
+    {
+      "description": "Massive rollout of Lenacapavir (six-monthly HIV prevention injection).",
+      "reasoning": "Health intervention commitment aimed at eliminating HIV transmission.",
+      "raw_info": "we will be undertaking a massive rollout of Lenacapavir, a six-monthly injection that has proven highly effective..."
+    },
+    {
+      "description": "Ensure HPV vaccine access for every girl between ages 9 and 15.",
+      "reasoning": "Public health goal to end cervical cancer.",
+      "raw_info": "mobilising society to ensure that every young girl between the ages of 9 and 15 receives the HPV vaccine."
+    },
+    {
+      "description": "Hire an additional 10,000 labour inspectors this year.",
+      "reasoning": "Specific recruitment target to tighten enforcement of labor and immigration laws.",
+      "raw_info": "To tighten enforcement, we will hire an additional 10 000 labour inspectors this year."
+    },
+    {
+      "description": "Prioritize funding for border security infrastructure and technology (drones).",
+      "reasoning": "Explicit commitment to national security and border integrity.",
+      "raw_info": "Funding to strengthen border security will be prioritised, covering infrastructure, technology and people."
+    },
+    {
+      "description": "Launch a Digital ID this year.",
+      "reasoning": "Department of Home Affairs (DHA) project with a 2024/2025 deadline.",
+      "raw_info": "This year, the DHA will launch a Digital ID to enable safe and secure use of digital services..."
+    },
+    {
+      "description": "Digitise driver's licenses, Matric certificates, and Master's Office services.",
+      "reasoning": "Specific service delivery improvement via digital transformation.",
+      "raw_info": "We will digitise driver’s licenses, Matric certificates and services at the Master’s Office."
+    },
+    {
+      "description": "Finalise the National State Enterprises Bill.",
+      "reasoning": "Legislative commitment to reform the governance of SOEs.",
+      "raw_info": "This includes finalising the National State Enterprises Bill in line with this approach."
+    },
+    {
+      "description": "Withdraw South African troops from the UN Mission in the DRC.",
+      "reasoning": "Formal request made to the UN to consolidate domestic defense resources.",
+      "raw_info": "We have requested the UN to allow us to withdraw our troops from the UN Mission in the Democratic Republic of the Congo..."
+    },
+    {
+      "description": "Spread the National Dialogue process to every community and sector.",
+      "reasoning": "Commitment to broad-based civic engagement leading to a national compact.",
+      "raw_info": "This year, the National Dialogue process will spread across South Africa, reaching every community..."
+    },
+    {
+      "description": "Convene a National Convention to guide the National Development Plan beyond 2030.",
+      "reasoning": "The culminating event of the National Dialogue process.",
+      "raw_info": "These public dialogues will culminate in a National Convention where all of these conversations will be brought together..."
+    },
+    {
+      "description": "Fix local government and restore trust in the criminal justice system by 2026.",
+      "reasoning": "Identified as mandatory pillars for a 'transformative change' year in 2026.",
+      "raw_info": "the year 2026 must be a year of transformative change. ... We must fix local government. We must fight crime, corruption..."
+    },
+    {
+      "description": "Establish a central registry for disciplinary cases across government.",
+      "reasoning": "Governance commitment to prevent re-employment of offenders in the state.",
+      "raw_info": "We are establishing a central registry for disciplinary cases across all spheres of government."
+    },
+    {
+      "description": "Launch the International Panel on Inequality with international partners.",
+      "reasoning": "Global advocacy commitment arising from the G20 presidency.",
+      "raw_info": "working with our international partners towards launching the International Panel on Inequality."
+    }
+  ]
+}

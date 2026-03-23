@@ -1,0 +1,151 @@
+{
+  "themes": [
+    {
+      "name": "Water Infrastructure and Crisis Governance",
+      "reasoning": "The transcript details a centralized response to the water crisis, including the formation of a National Water Crisis Committee and R54 billion in incentives for municipal reforms."
+    },
+    {
+      "name": "Local Government Accountability and Reform",
+      "reasoning": "There is a strong focus on addressing municipal dysfunction through a new White Paper, professionalizing staff, and intervening where service delivery fails."
+    },
+    {
+      "name": "Strategic Infrastructure and Economic Growth",
+      "reasoning": "The government outlines a R1 trillion public investment plan, Operation Vulindlela, and the creation of specialized commercial courts to drive development."
+    },
+    {
+      "name": "Energy Security and Renewable Transition",
+      "reasoning": "The text emphasizes restructuring Eskom, ending load reduction, and achieving a 40% renewable energy share by 2030."
+    },
+    {
+      "name": "Logistics and Transport Modernization",
+      "reasoning": "Plans for private rail operators, port partnerships, and high-speed rail corridors are identified as keys to global competitiveness."
+    },
+    {
+      "name": "Agricultural Productivity and Bio-security",
+      "reasoning": "Focus on supporting farmers with 10,000 extension officers and an urgent national response to the foot-and-mouth disease outbreak."
+    },
+    {
+      "name": "Green Growth and Mining Revitalization",
+      "reasoning": "Incentivizing new energy vehicles (NEVs) and harnessing critical mineral reserves for global supply chains."
+    },
+    {
+      "name": "Inclusive Growth and Small Business Support",
+      "reasoning": "Significant funding (R2.5bn) for SMEs and a R2 trillion investment target aimed at job creation and transformation."
+    },
+    {
+      "name": "Employment Stimulus and Social Safety Net",
+      "reasoning": "Expansion of public employment programs like the Presidential Employment Stimulus to provide work and income support."
+    },
+    {
+      "name": "Education Reform and Skills Revolution",
+      "reasoning": "Making Grade R compulsory, overhauling the skills development system, and expanding higher education capacity."
+    }
+  ],
+  "commitments": [
+    {
+      "description": "Establishment and chairing of the National Water Crisis Committee",
+      "reasoning": "Explicit statement: 'National Water Crisis Committee, which I will chair.'",
+      "raw_info": "response to the water crisis to a National Water Crisis Committee, which I will chair."
+    },
+    {
+      "description": "Criminal charges against Municipal Managers in their personal capacity",
+      "reasoning": "Explicit intent to hold individuals accountable for water act violations.",
+      "raw_info": "We will now move to lay charges against Municipal Managers in their personal capacity for violating the National Water Act of 1998."
+    },
+    {
+      "description": "R54 billion incentive for metros to reform water, sanitation, and electricity services",
+      "reasoning": "A specific financial commitment linked to local government reform.",
+      "raw_info": "we have introduced a new R54 billion incentive for metros to reform their water, sanitation and electricity services."
+    },
+    {
+      "description": "Finalization of a revised White Paper on Local Government",
+      "reasoning": "A time-bound commitment to policy overhaul.",
+      "raw_info": "in the coming months finalise a revised White Paper on Local Government."
+    },
+    {
+      "description": "Establishment of specialized courts for commercial matters",
+      "reasoning": "Commitment to legal infrastructure reform to support the economy.",
+      "raw_info": "we will establish specialised courts for commercial matters with dedicated judges and dedicated court rolls"
+    },
+    {
+      "description": "Establishment of a professional State Property Company",
+      "reasoning": "Commitment to create a new entity this year.",
+      "raw_info": "This year, we will begin work to establish a professional State Property Company"
+    },
+    {
+      "description": "Target of 40% renewable energy by 2030",
+      "reasoning": "A specific, measurable long-term energy target.",
+      "raw_info": "By 2030, more than 40% of our energy supply will come from cheap, clean and renewable energy sources."
+    },
+    {
+      "description": "Eradicating load reduction by next year",
+      "reasoning": "A time-bound goal to fix localized power distribution issues.",
+      "raw_info": "with the objective of eradicating load reduction by next year."
+    },
+    {
+      "description": "Initiation of major public-private partnerships in port terminals and rail corridors",
+      "reasoning": "Commitment to a specific economic model later this year.",
+      "raw_info": "Later this year, we will initiate major public-private partnerships in our port terminals and rail corridors"
+    },
+    {
+      "description": "Issuing a Request For Proposals (RFP) for high-speed rail corridors",
+      "reasoning": "A concrete step in a long-term infrastructure project.",
+      "raw_info": "We are preparing to send out a Request For Proposals, which will introduce a new era of long-distance rail travel"
+    },
+    {
+      "description": "Deployment of 10,000 new Extension Officers to support farmers",
+      "reasoning": "A specific human resource commitment to the agricultural sector.",
+      "raw_info": "We will deploy 10 000 new Extension Officers to support farmers and improve agricultural productivity."
+    },
+    {
+      "description": "Vaccinating the national herd of 14 million cattle (28 million vaccines)",
+      "reasoning": "A massive, resource-heavy bio-security commitment within a 12-month timeframe.",
+      "raw_info": "We have decided to vaccinate the national herd of 14 million cattle. This requires 28 million vaccines over the next 12 months."
+    },
+    {
+      "description": "Expansion of the Electronic Travel Authorisation System to all visa-requiring countries",
+      "reasoning": "Commitment to digitalize tourism access in the coming year.",
+      "raw_info": "In the coming year, we will extend the Electronic Travel Authorisation System to all countries that require a visa"
+    },
+    {
+      "description": "150% tax deduction for investment in new energy vehicles (NEVs)",
+      "reasoning": "A specific fiscal incentive starting in March.",
+      "raw_info": "From March this year, we will introduce a 150% tax deduction for investment in new energy vehicles"
+    },
+    {
+      "description": "Target of R2 trillion in new investments over five years",
+      "reasoning": "A high-level measurable investment goal.",
+      "raw_info": "We have now set ourselves a target of raising R2 trillion in new investments over the next five years."
+    },
+    {
+      "description": "R2.5 billion in funding for over 180,000 small and medium enterprises",
+      "reasoning": "A specific budget allocation for the current year.",
+      "raw_info": "This year, we will provide more than R2.5 billion in funding to over 180 000 small and medium enterprises"
+    },
+    {
+      "description": "Expansion of public employment programmes (CWP, EPWP, and Stimulus)",
+      "reasoning": "Commitment to grow social employment initiatives in the coming year.",
+      "raw_info": "In the coming year, we will expand our public employment programmes, including the CWP, EPWP and the Presidential Employment Stimulus."
+    },
+    {
+      "description": "7% employment equity and procurement target for persons with disabilities by 2030",
+      "reasoning": "A specific, time-bound mandate for transformation.",
+      "raw_info": "increase employment equity targets of persons with disabilities in the Public Service to 7% by 2030, and to mandate a 7% preferential procurement target"
+    },
+    {
+      "description": "Making Grade R compulsory for all children",
+      "reasoning": "A fundamental shift in basic education policy.",
+      "raw_info": "By making Grade R compulsory, we are getting all children off to a good start."
+    },
+    {
+      "description": "Restoring skills development levy return to employers to 40%",
+      "reasoning": "A specific financial policy reform for the skills sector.",
+      "raw_info": "increase the proportion of the skills development levy returned to employers, restoring it to its original level of 40%."
+    },
+    {
+      "description": "Directive to build more universities and TVET colleges with specialized focus",
+      "reasoning": "A direct instruction from the President to expand educational infrastructure.",
+      "raw_info": "I have directed the Ministers of Finance and Higher Education to work on a proposal to build more universities and TVET colleges"
+    }
+  ]
+}

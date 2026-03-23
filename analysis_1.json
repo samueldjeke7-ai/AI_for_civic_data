@@ -1,0 +1,125 @@
+{
+  "themes": [
+    {
+      "name": "National Resilience and Historical Continuity",
+      "reasoning": "The President draws a direct line from the 1956 Women's March and the 1976 Soweto Uprising to the current spirit of the nation, suggesting that historical courage is the foundation for overcoming modern challenges."
+    },
+    {
+      "name": "Economic Recovery and Stabilization",
+      "reasoning": "A significant portion of the speech highlights positive economic indicators such as GDP growth, budget surpluses, lower inflation, and the performance of the JSE as evidence of a successful turnaround strategy."
+    },
+    {
+      "name": "Safety and the Fight Against Organised Crime",
+      "reasoning": "Organised crime is identified as an immediate threat to democracy, prompting a major focus on new law enforcement strategies, military support, and intelligence-led interventions."
+    },
+    {
+      "name": "Anti-Corruption and Institutional Integrity",
+      "reasoning": "The speech emphasizes strengthening the rule of law through the Madlanga Commission's findings, vetting processes, and legislative reforms like the Whistle-Blower Protection Bill."
+    },
+    {
+      "name": "Infrastructure and Essential Service Delivery (Water and Local Government)",
+      "reasoning": "The 'water crisis' and the dysfunction of local municipalities are framed as critical failures that require urgent national intervention, financial incentives, and systemic reform."
+    },
+    {
+      "name": "Collaborative Governance (Government of National Unity)",
+      "reasoning": "The GNU is presented as a mature political development that enables cooperation across the political spectrum to drive a common growth agenda."
+    }
+  ],
+  "commitments": [
+    {
+      "description": "Deployment of the SANDF to support police in Gauteng and Western Cape.",
+      "reasoning": "This is an explicit executive directive to deploy military forces within a specific timeframe to combat gang violence and illegal mining.",
+      "raw_info": "I have directed the Minister of Police and the SANDF to develop a tactical plan where our security forces should be deployed within the next few days in the Western Cape and Gauteng to deal with gang violence and illegal mining."
+    },
+    {
+      "description": "Recruitment of 5,500 additional police officers this year.",
+      "reasoning": "A specific, quantifiable target for increasing law enforcement capacity within the current year.",
+      "raw_info": "We are putting more boots on the ground through the recruitment this year of 5 500 additional police officers..."
+    },
+    {
+      "description": "Establishment of the National Illicit Economy Disruption Programme.",
+      "reasoning": "An explicit commitment to create a new programme utilizing AI and data analytics to target sectors like tobacco and fuel.",
+      "raw_info": "We are establishing a National Illicit Economy Disruption Programme that brings together key state agencies and other stakeholders... target high-risk sectors like tobacco, fuel, alcohol and other counterfeit products."
+    },
+    {
+      "description": "Re-vetting and lifestyle audits of SAPS and Metro Police Senior Management.",
+      "reasoning": "A commitment to institutional reform through the State Security Agency to ensure ethical leadership in law enforcement.",
+      "raw_info": "The State Security Agency will re-vet the Senior Management of the SAPS and Metro Police departments. The vetting process will include lifestyle audits."
+    },
+    {
+      "description": "Implementation of reforms based on the Madlanga Commission findings.",
+      "reasoning": "A commitment to use the commission's recommendations as a blueprint for fundamental reform of the criminal justice system.",
+      "raw_info": "As we have successfully done with previous commissions, we will use the recommendations of the Madlanga Commission to make far-reaching changes."
+    },
+    {
+      "description": "Creation of a criminal justice reform initiative team in The Presidency.",
+      "reasoning": "An organizational commitment to centralize and accelerate reforms against organised crime and corruption.",
+      "raw_info": "Drawing on the success of Operation Vulindlela... we will use a similar approach to establish a hard-hitting new criminal justice reform initiative... using a dedicated team in The Presidency."
+    },
+    {
+      "description": "Finalization of the government's approach to an independent anti-corruption body.",
+      "reasoning": "A commitment to resolve the structure of a permanent, overarching anti-corruption entity.",
+      "raw_info": "We will finalise government’s approach to the recommendation of the National Anti-Corruption Advisory Council on the establishment of a permanent, independent, overarching anti-corruption body."
+    },
+    {
+      "description": "Introduction of the Whistle-Blower Protection Bill in Parliament.",
+      "reasoning": "An explicit legislative commitment to protect and support individuals who report corruption.",
+      "raw_info": "The Whistle-Blower Protection Bill will be introduced in Parliament. Among other things, this will criminalise retaliation and provide psychosocial, legal and financial support to whistle-blowers."
+    },
+    {
+      "description": "Finalization of new Public Procurement Act regulations by mid-2026.",
+      "reasoning": "A specific deadline-bound commitment to reform the procurement system and curb corruption.",
+      "raw_info": "Measures will include the use of technology and the finalisation of new Public Procurement Act regulations by mid-2026."
+    },
+    {
+      "description": "Ministerial intervention and community engagement regarding water shortages.",
+      "reasoning": "An immediate directive for high-level officials to address local service delivery failures and communicate with citizens.",
+      "raw_info": "I have directed the Minister of Water and Sanitation and her deputies as well as the Minister of Cooperative Governance and Traditional Affairs to attend to the water shortage problem and engage with our communities."
+    },
+    {
+      "description": "Public funding of R156 billion for water and sanitation over three years.",
+      "reasoning": "A multi-year fiscal commitment to upgrade and build water infrastructure.",
+      "raw_info": "We have committed more than R156 billion in public funding for water and sanitation infrastructure over the next three years."
+    },
+    {
+      "description": "Establishment of the National Water Resource Infrastructure Agency.",
+      "reasoning": "A commitment to create a new agency to manage and mobilize funding for water infrastructure.",
+      "raw_info": "we are in the final stages of establishing a National Water Resource Infrastructure Agency to effectively manage and mobilise funding for the country’s water infrastructure."
+    },
+    {
+      "description": "Formation and chairing of the National Water Crisis Committee by the President.",
+      "reasoning": "An elevation of the water issue to a national priority under the President's direct oversight.",
+      "raw_info": "we will now elevate our response to the water crisis to a National Water Crisis Committee, which I will chair."
+    },
+    {
+      "description": "Laying personal criminal charges against Municipal Managers for water act violations.",
+      "reasoning": "An explicit commitment to enforce personal accountability for municipal service delivery failures.",
+      "raw_info": "We will now move to lay charges against Municipal Managers in their personal capacity for violating the National Water Act of 1998."
+    },
+    {
+      "description": "Implementation of a R54 billion incentive for metros to reform services.",
+      "reasoning": "A financial commitment aimed at incentivizing structural reforms in local government utilities.",
+      "raw_info": "we have introduced a new R54 billion incentive for metros to reform their water, sanitation and electricity services."
+    },
+    {
+      "description": "Finalization of a revised White Paper on Local Government.",
+      "reasoning": "A commitment to overhaul the policy framework for local governance in the coming months.",
+      "raw_info": "we will, in the coming months finalise a revised White Paper on Local Government. This will provide solutions for the functioning of an effective local government system."
+    },
+    {
+      "description": "Ensuring independent appointment of qualified senior local government officials.",
+      "reasoning": "A commitment to professionalize local government by removing political interference from the hiring process.",
+      "raw_info": "We will ensure that senior officials in local government have the required qualifications and are appointed through an independent process free from political interference."
+    },
+    {
+      "description": "Strengthening the ability of national government to intervene in failing municipalities.",
+      "reasoning": "An implicit commitment to legislative or procedural changes that allow faster corrective action by the state.",
+      "raw_info": "Where municipalities fail, we will strengthen the ability of national government to intervene more quickly and to direct corrective measures..."
+    },
+    {
+      "description": "Streamlining gun legislation and increasing enforcement of gun laws.",
+      "reasoning": "An explicit commitment to tackle gun crime through legislative and enforcement measures.",
+      "raw_info": "We are going to tackle gun crime by streamlining legislation and regulations on licencing, possessing and trading in firearms and ammunition. We will increase enforcement of existing gun laws."
+    }
+  ]
+}
